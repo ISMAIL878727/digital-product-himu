@@ -42,3 +42,32 @@
 .sec-text{
     color: white;
 }
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: darkmagenta;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    color: black;
+    cursor: pointer;
+}
+.about-father{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.about-info{
+    text-align: end;
+}
