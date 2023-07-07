@@ -65,9 +65,44 @@
 }
 .about-title{
     text-align: center;
-    padding-top: 20px;
-    font-size: 50px;
+    padding-top: 30px;
+    font-size: 45px;
 }
 .about-info{
     text-align: end;
+}
+.service-box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px grey;
+    height: 350px;
+    width: ;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.sicon{
+width: 70px;
+}
+.box-btn{
+    background-color: grey;
+    margin-top: 10px;
+}
+.box-tit{
+    padding: 10px;
+}
+.box-des{
+    padding: 5px;
+}
+.service-father{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(18, 11, 11);
+}
+.foot-father{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+
 }
