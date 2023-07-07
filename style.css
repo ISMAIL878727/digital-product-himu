@@ -1,6 +1,7 @@
-p{
-    color: rgb(23, 4, 228);
+*{
+    margin: 0px;
+    padding: 0px;
 }
-.himu{
+.menu-father{
     background-color: black;
 }
