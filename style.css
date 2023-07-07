@@ -3,5 +3,42 @@
     padding: 0px;
 }
 .menu-father{
-    background-color: black;
+    background-color: rgb(32, 32, 32);
+    padding: 25px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menus{
+    display: flex;
+}
+.logo-photo{
+    width: 120px;
+}
+.type{
+    margin-right: 20px;
+    padding: 20px;
+    font-size: 10px;
+}
+.type:hover
+{
+    color: chocolate;
+    cursor: pointer;
+}
+.banner-img1{
+    width: 400px;
+}
+.sec-father{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("./background.png"),
+    linear-gradient(45deg, rgb(8, 8, 8), rgb(46, 45, 45));
+    /*border: 2px solid grey;*/
+    height: 100vh;
+    align-items: center;
+}
+.sec-text{
+    color: white;
 }
